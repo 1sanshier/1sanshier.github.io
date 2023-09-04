@@ -32,12 +32,14 @@ toc: false # 无需显示目录
 <br>
 - 本科/石家庄铁道大学信息学院软件工程系
 <br>
-- 技术博客：http://blog.github.io ( `使用GitHub Host的Big较高` )
-- Github：http://github.com/geekcompany ( `有原创repo的Github帐号会极大的提升你的个人品牌` )
-
+- 技术博客：http://1sanshier.github.io 
+<br>
+- Github：http://github.com/1sanshier
+<br>
 - 期望职位：Java 高级程序员，架构师
 - 期望薪资：税前月薪 15k~20k，特别喜欢的公司可例外
-- 期望城市：北京
+- 期望城市：日本城市
+<br>
 
 ---
 
@@ -47,7 +49,7 @@ toc: false # 无需显示目录
 <div class="trm-skill-card trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
   <div class="trm-mb-40">
     <div class="trm-skill-header">
-      <h6 class="trm-mb-15">Html</h6>
+      <h6 class="trm-mb-15">Java</h6>
       <span class="trm-label trm-label-light">100%</span></div>
     <div class="trm-progressbar-frame">
       <div class="trm-progressbar p100"></div>
